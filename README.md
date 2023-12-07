@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/r-asghar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Rizasghar" target="_blank">
+  <a href="https://github.com/Rizasghar?tab=repositories" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=youtube&label=&color=FCFCFD&logoColor=6942C0&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>

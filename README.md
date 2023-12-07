@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hi Rizasghar Here 👋</h1>
+<h1 align="center">Hi Riz Asghar Here 👋</h1>
 
 
 ###
